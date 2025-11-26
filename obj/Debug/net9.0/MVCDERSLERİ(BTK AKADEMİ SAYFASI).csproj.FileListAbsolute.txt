@@ -1,0 +1,97 @@
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\appsettings.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).staticwebassets.runtime.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).staticwebassets.endpoints.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).exe
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).deps.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).runtimeconfig.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).dll
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\bin\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).pdb
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).AssemblyInfoInputs.cache
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).AssemblyInfo.cs
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).csproj.CoreCompileInputs.cache
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).RazorAssemblyInfo.cache
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).RazorAssemblyInfo.cs
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\scopedcss\bundle\MVCDERSLERİ(BTK AKADEMİ SAYFASI).styles.css
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\scopedcss\projectbundle\MVCDERSLERİ(BTK AKADEMİ SAYFASI).bundle.scp.css
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\91tf485qw0-b9sayid5wm.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\v43k35cctw-61n19gt1b8.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\ck11n6hoe6-xtxxf3hu2r.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\37udg1tua3-bqjiyaj88i.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\aw4z24s6ov-c2jlpeoesf.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\7d650xfv2q-erw9l3u2r3.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\qjupohyfg5-aexeepp0ev.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\7jnmxfaxei-d7shbmvgxk.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\pv6s9yq4c2-ausgxo2sd3.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\96g714p8r0-k8d9w2qqmf.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\iwxupv1flp-cosvhxvwiu.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\0gckakzdht-ub07r2b239.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\l8m45xp1cp-fvhpjtyr6v.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\227wvlryr4-b7pk76d08c.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\gevs0tc1qh-fsbi9cje9m.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\kc47tcpppm-rzd6atqjts.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\6cmxry1xjp-ee0r1s7dh0.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\18fyy1u035-dxx9fxp4il.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\z52e8ftzia-jd9uben2k1.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\n74qen27ut-khv3u5hwcm.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\hdfjrfdgiu-r4e9w2rdcm.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\2bsytmtsg1-lcd1t2u6c8.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\s16o5wefjz-c2oey78nd0.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\hyvksg34hn-tdbxkamptv.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\4uk8dhd725-j5mq2jizvt.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\ddhlyr4vqt-06098lyss8.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\7yadqx1rzw-nvvlpmu67g.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\fplpi0yzf9-s35ty4nyc5.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\93zjvvokhm-pj5nd1wqec.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\s1slfb018e-46ein0sx1k.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\2a2vxx4w92-v0zj4ognzu.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\gull8bitfa-37tfw0ft22.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\2fxpni41tl-hrwsygsryq.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\dta8h7bm08-pk9g2wxc8p.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\djoq9ipgng-ft3s53vfgj.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\1t853te8l5-6cfz1n2cew.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\x6h1gk5c4h-6pdc2jztkx.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\d6dyqsdekg-493y06b0oq.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\jkiovxbimx-iovd86k7lj.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\l1r1ikv4fb-vr1egmr9el.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\dy0p708l6s-kbrnm935zg.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\6gdekghyl5-jj8uyg4cgr.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\80cme2r3sm-y7v9cxd14o.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\f8jvgtz09d-notf2xhcfb.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\3e1nb01etp-h1s4sie4z3.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\7mauphdvnk-63fj8s7r0e.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\piijh8vcax-0j3bgjxly4.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\z6vtt2vo41-47otxtyo56.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\nqxgeqkity-4v8eqarkd7.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\0l91t6jfnk-356vix0kms.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\ih8pbc3e12-83jwlth58m.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\4puob70whi-mrlpezrjn3.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\mxctcnmue7-lzl9nlhx6b.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\rub7tzfkxp-ag7o75518u.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\djlhddwtrs-x0q3zqp4vz.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\lsaxdp23fy-0i3buxo5is.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\rzn9o2q8mz-o1o13a6vjx.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\iw9d42waz2-ttgo8qnofa.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\c1ho5371uz-2z0ns9nrw6.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\mq316fevdq-muycvpuwrr.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\sh7ehq1pg5-87fc7y1x7t.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\ym96e5omcx-mlv21k5csn.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\o1ngtcwd1d-4k2icpl6uc.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\compressed\9vns4fy5q6-4k2icpl6uc.gz
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).dll
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\refint\MVCDERSLERİ(BTK AKADEMİ SAYFASI).dll
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).pdb
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\MVCDERSLERİ(BTK AKADEMİ SAYFASI).genruntimeconfig.cache
+C:\Users\YUNUS\source\repos\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\MVCDERSLERİ(BTK AKADEMİ SAYFASI)\obj\Debug\net9.0\ref\MVCDERSLERİ(BTK AKADEMİ SAYFASI).dll

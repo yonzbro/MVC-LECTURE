@@ -1,0 +1,70 @@
+﻿@model Candidates
+
+<div class="display-6">
+    Apply
+</div>
+<form method="post" asp-action="Apply">
+    <div class="text-danger" asp-validation-summary="All"></div>
+    <div class="form-group my-2">
+    <label asp-for="Email"></label>
+    <input asp-for="Email" class="form-control"/>
+    </div>
+
+    <div class="form-group my-2">
+        <label>FirstName</label>
+        <input name="FirstName" class="form-control" />
+    </div>
+
+    <div class="form-group my-2">
+        <label>LastName</label>
+        <input name="LastName" class="form-control" />
+    </div>
+    
+    
+    
+    <div class="form-group my-2">
+        <label>Age</label>
+        <select name="Age" class="form-control">
+            <option value ="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+            <option value="21">21</option>
+            <option value="22">22</option>
+            <option value="23">23</option>
+
+        </select>
+    </div>
+    <fieldsey>
+        <legend>Select one course</legend>
+        <p>
+            <input id="mvc" type="radio" name="SelectedCourse" value="ASP.NET CORE MVC"checked>
+            <label for="mvc">ASP.NET Core MVC</label><br />
+
+            <input id="react" type="radio" name="SelectedCourse" value="React.js">
+            <label for="react">React.js</label><br />
+
+            <input id="angular" type="radio" name="SelectedCourse" value="Angular">
+            <label for="angular">Angular</label><br />
+
+            <input id="python" type="radio" name="SelectedCourse" value="Python">
+            <label for="python">Python</label><br />
+
+            <input id="datascience" type="radio" name="SelectedCourse" value="Data Science">
+            <label for="datascience">Data Science</label><br />
+
+            <input id="ai" type="radio" name="SelectedCourse" value="Artificial Intelligence">
+            <label for="ai">Artificial Intelligence</label><br />
+
+
+        </p>
+
+    </fieldsey>
+
+    
+    <div class=" my-2">
+        <button class="btn btn-primary"type="submit">Apply</button>
+        <!-- <a class="btn btn-warning" href="/home">Home</a>-->
+        <a class="btn btn-warning" asp-controller="Home" asp-action="Index">Home</a>
+    </div>
+    
+</form>
